@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>35</level>
+  <radical_kanji>帯</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This is the same as the kanji "belt," which makes this </text>
+      <radical>belt</radical>
+      <text> as well.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-1226" meaning="Stagnate" reading="たい">滞</kanji>
+  </found_in_kanji>
+</radical>

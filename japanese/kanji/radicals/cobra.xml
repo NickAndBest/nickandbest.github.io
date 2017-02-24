@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>7</level>
+  <radical_kanji>己</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This looks a lot like the snake you will learn later on, but it's different because this snake is standing up, ready to strike. Can you think of a snake that takes up this position? How about a </text>
+      <radical>cobra</radical>
+      <text>?</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-249" meaning="Write Down" reading="き">記</kanji>
+    <kanji id="kanji-343" meaning="Distribute" reading="はい">配</kanji>
+    <kanji id="kanji-341" meaning="Wake Up" reading="お">起</kanji>
+    <kanji id="kanji-449" meaning="Harbor" reading="こう">港</kanji>
+    <kanji id="kanji-494" meaning="Choose" reading="せん">選</kanji>
+    <kanji id="kanji-560" meaning="Account" reading="き">紀</kanji>
+    <kanji id="kanji-691" meaning="Renew" reading="かい">改</kanji>
+    <kanji id="kanji-882" meaning="Scroll" reading="かん">巻</kanji>
+    <kanji id="kanji-1229" meaning="Oneself" reading="こ">己</kanji>
+    <kanji id="kanji-1312" meaning="Hug" reading="だ">抱</kanji>
+    <kanji id="kanji-1436" meaning="Wrap" reading="ほう">包</kanji>
+    <kanji id="kanji-1723" meaning="Princess" reading="ひ">妃</kanji>
+    <kanji id="kanji-2012" meaning="Mourning" reading="き">忌</kanji>
+    <kanji id="kanji-2041" meaning="Transition" reading="せん">遷</kanji>
+  </found_in_kanji>
+</radical>

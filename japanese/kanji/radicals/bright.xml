@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>36</level>
+  <radical_kanji>明</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This looks just like the kanji you learned before, </text>
+      <radical>bright</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-1256" meaning="Alliance" reading="めい">盟</kanji>
+    <kanji id="kanji-2005" meaning="Sprout" reading="ほう">萌</kanji>
+  </found_in_kanji>
+</radical>

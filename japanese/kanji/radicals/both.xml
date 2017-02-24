@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>25</level>
+  <radical_kanji>両</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This radical is the same as the kanji. It means </text>
+      <radical>Both</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-880" meaning="Full" reading="まん">満</kanji>
+  </found_in_kanji>
+</radical>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>13</level>
+  <radical_kanji>丸</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This radical looks just like the kanji you've learned already (丸). It also has the same meaning: </text>
+      <radical>circle</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-490" meaning="Heat" reading="ねつ">熱</kanji>
+    <kanji id="kanji-776" meaning="Force" reading="せい">勢</kanji>
+    <kanji id="kanji-1170" meaning="Ripen" reading="じゅく">熟</kanji>
+    <kanji id="kanji-1290" meaning="Tenacious" reading="しゅう">執</kanji>
+    <kanji id="kanji-1568" meaning="Cram School" reading="じゅく">塾</kanji>
+  </found_in_kanji>
+</radical>

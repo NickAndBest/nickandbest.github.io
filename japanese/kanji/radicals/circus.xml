@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>25</level>
+  <radical_kanji>冓</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>You put your life (twice, one for each show) into an elephant's hands (or trunk). Where do you work? At the </text>
+      <radical>circus</radical>
+      <text>. Don't get this confused with the similar </text>
+      <span>黄</span>
+      <text>, though. That one is different, and doesn't involve life or elephants.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-872" meaning="Set Up" reading="こう">構</kanji>
+    <kanji id="kanji-1045" meaning="Subscription" reading="こう">購</kanji>
+    <kanji id="kanji-1225" meaning="Lecture" reading="こう">講</kanji>
+    <kanji id="kanji-1578" meaning="Gutter" reading="こう">溝</kanji>
+  </found_in_kanji>
+</radical>

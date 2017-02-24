@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>23</level>
+  <radical_kanji>衣</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>You kick a lid off a box. Inside the box is a bunch of </text>
+      <radical>clothes</radical>
+      <text>. This radical will be the same as the kanji you'll learn later on, so it's helpful to learn it as clothes even though it doesn't quite look like clothes.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-803" meaning="Judge" reading="さい">裁</kanji>
+    <kanji id="kanji-828" meaning="Manufacture" reading="せい">製</kanji>
+    <kanji id="kanji-998" meaning="Break" reading="かい">壊</kanji>
+    <kanji id="kanji-1038" meaning="Nostalgia" reading="なつ">懐</kanji>
+    <kanji id="kanji-1182" meaning="Attire" reading="そう">装</kanji>
+    <kanji id="kanji-1280" meaning="Reliant" reading="い">依</kanji>
+    <kanji id="kanji-1411" meaning="Praise" reading="ほう">褒</kanji>
+    <kanji id="kanji-1437" meaning="Clothes" reading="い">衣</kanji>
+    <kanji id="kanji-1449" meaning="Mourning" reading="そう">喪</kanji>
+    <kanji id="kanji-1477" meaning="Sack" reading="ふくろ">袋</kanji>
+    <kanji id="kanji-1481" meaning="Attack" reading="しゅう">襲</kanji>
+    <kanji id="kanji-1480" meaning="Split" reading="れつ">裂</kanji>
+  </found_in_kanji>
+</radical>

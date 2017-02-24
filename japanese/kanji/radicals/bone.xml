@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>42</level>
+  <radical_kanji>骨</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This is the same as the kanji </text>
+      <radical>Bone</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-1466" meaning="Slippery" reading="かつ">滑</kanji>
+    <kanji id="kanji-1912" meaning="Marrow" reading="ずい">髄</kanji>
+  </found_in_kanji>
+</radical>

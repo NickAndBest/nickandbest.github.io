@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>6</level>
+  <radical_kanji>向</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>There's a head with a little bit of hair on the top. There's also one big eye in the middle. Only one creature has a head like this, and that creature is the </text>
+      <radical>cyclops</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-183" meaning="Yonder" reading="こう">向</kanji>
+  </found_in_kanji>
+</radical>

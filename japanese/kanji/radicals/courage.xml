@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>60</level>
+  <radical_kanji>勇</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This radical is the same as the kanji. It means </text>
+      <radical>courage</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-2088" meaning="Well" reading="ゆう">湧</kanji>
+  </found_in_kanji>
+</radical>

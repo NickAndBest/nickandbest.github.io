@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>29</level>
+  <radical_kanji>責</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This radical is the same as the kanji. It means </text>
+      <radical>Blame</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-1002" meaning="Accumulate" reading="せき">積</kanji>
+    <kanji id="kanji-1131" meaning="Exploits" reading="せき">績</kanji>
+    <kanji id="kanji-1259" meaning="Debt" reading="さい">債</kanji>
+  </found_in_kanji>
+</radical>

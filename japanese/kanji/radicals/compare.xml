@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>8</level>
+  <radical_kanji>比</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This radical is made up of two slightly different versions of the spoon radical (which you should already know). Each spoon radical is kind of different, though, so you have to look at them carefully and </text>
+      <radical>compare</radical>
+      <text> them to find said differences.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-441" meaning="Floor" reading="かい">階</kanji>
+    <kanji id="kanji-503" meaning="All" reading="みな">皆</kanji>
+    <kanji id="kanji-697" meaning="Compare" reading="ひ">比</kanji>
+    <kanji id="kanji-676" meaning="Descendants" reading="こん">昆</kanji>
+    <kanji id="kanji-687" meaning="Mix" reading="こん">混</kanji>
+    <kanji id="kanji-750" meaning="Criticism" reading="ひ">批</kanji>
+    <kanji id="kanji-1281" meaning="Deer" reading="か">鹿</kanji>
+    <kanji id="kanji-1714" meaning="Highness" reading="へい">陛</kanji>
+  </found_in_kanji>
+</radical>

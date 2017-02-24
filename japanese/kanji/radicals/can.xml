@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>44</level>
+  <radical_kanji>缶</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>It's kind of hard to see, but if you look at this the right way it looks like a tin </text>
+      <radical>can</radical>
+      <text>. The lines in the middle show the circumference, and the lines on the tops and sides show the outline of the can.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-1539" meaning="Tin Can" reading="かん">缶</kanji>
+    <kanji id="kanji-1711" meaning="Pottery" reading="とう">陶</kanji>
+    <kanji id="kanji-1731" meaning="Gloom" reading="うつ">鬱</kanji>
+  </found_in_kanji>
+</radical>

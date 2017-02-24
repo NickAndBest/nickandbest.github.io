@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>22</level>
+  <radical_kanji>呂</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>See the dude sitting inside the box? His head is sticking out the top. That's a </text>
+      <radical>bathtub</radical>
+      <text> he's sitting in.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-777" meaning="Manage" reading="えい">営</kanji>
+    <kanji id="kanji-770" meaning="Shinto Shrine" reading="みや">宮</kanji>
+    <kanji id="kanji-1799" meaning="Bath" reading="ろ">呂</kanji>
+  </found_in_kanji>
+</radical>

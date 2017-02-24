@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>7</level>
+  <radical_kanji>黒</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>A sunflower with a fish tail... this strange fish-flower hybrid wasn't even the right color, it was completely </text>
+      <radical>black</radical>
+      <text>... even blacker than black itself, if you can believe it.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-263" meaning="Black" reading="こく">黒</kanji>
+    <kanji id="kanji-1582" meaning="Black Ink" reading="すみ">墨</kanji>
+  </found_in_kanji>
+</radical>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>5</level>
+  <radical_kanji>耂</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>See the grave with the slide going into it? What do you slide into graves? You would slide a </text>
+      <radical>coffin</radical>
+      <text> into a grave.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-142" meaning="Think" reading="かんが">考</kanji>
+    <kanji id="kanji-279" meaning="Someone" reading="しゃ">者</kanji>
+    <kanji id="kanji-385" meaning="Elderly" reading="ろう">老</kanji>
+    <kanji id="kanji-2084" meaning="Torture" reading="ごう">拷</kanji>
+  </found_in_kanji>
+</radical>

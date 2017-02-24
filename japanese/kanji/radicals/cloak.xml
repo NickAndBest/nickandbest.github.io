@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>8</level>
+  <radical_kanji/>
+  <name_mnemonic>
+    <p>
+      <text>The </text>
+      <radical>cloak</radical>
+      <text> goes over everything. It protects it and keeps hidden whatever is below it. This looks like a cloak too, right? The right side is the cape part, coming down, and the top part is the part you tie around your neck.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-272" meaning="Bureau" reading="きょく">局</kanji>
+    <kanji id="kanji-551" meaning="Director" reading="し">司</kanji>
+    <kanji id="kanji-635" meaning="Illusion" reading="げん">幻</kanji>
+  </found_in_kanji>
+</radical>

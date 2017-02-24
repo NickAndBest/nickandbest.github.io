@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>13</level>
+  <radical_kanji>正</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This radical looks just like the kanji 正, so it has the same meaning, too: </text>
+      <radical>correct</radical>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-471" meaning="Arrange" reading="せい">整</kanji>
+    <kanji id="kanji-595" meaning="Evidence" reading="しょう">証</kanji>
+    <kanji id="kanji-593" meaning="Politics" reading="せい">政</kanji>
+    <kanji id="kanji-623" meaning="Absolutely" reading="ぜ">是</kanji>
+    <kanji id="kanji-765" meaning="Birth" reading="たん">誕</kanji>
+    <kanji id="kanji-790" meaning="Present" reading="てい">提</kanji>
+    <kanji id="kanji-902" meaning="Obey" reading="じゅう">従</kanji>
+    <kanji id="kanji-943" meaning="Symptom" reading="しょう">症</kanji>
+    <kanji id="kanji-1035" meaning="Prolong" reading="えん">延</kanji>
+    <kanji id="kanji-1197" meaning="Vertical" reading="たて">縦</kanji>
+    <kanji id="kanji-1369" meaning="Honorable" reading="ご">御</kanji>
+    <kanji id="kanji-1713" meaning="Subjugate" reading="せい">征</kanji>
+    <kanji id="kanji-1751" meaning="Eddy" reading="よど">淀</kanji>
+    <kanji id="kanji-1741" meaning="Embankment" reading="てい">堤</kanji>
+  </found_in_kanji>
+</radical>

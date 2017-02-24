@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>32</level>
+  <radical_kanji>卬</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>See the "CP" in this radical? It stands for </text>
+      <radical>Cat Pirate</radical>
+      <text>. Meoaarrrr.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-1122" meaning="Welcome" reading="げい">迎</kanji>
+    <kanji id="kanji-1335" meaning="Suppress" reading="よく">抑</kanji>
+    <kanji id="kanji-1748" meaning="Look Up To" reading="ぎょう">仰</kanji>
+  </found_in_kanji>
+</radical>

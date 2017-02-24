@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>1</level>
+  <radical_kanji>工</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>You know those big steel girders that are used for the frame of big buildings? This is like the end of one of those - they have a very distinct shape, just like this radical. These girders are used in construction, which is why this radical means </text>
+      <radical>construction</radical>
+      <text>. Funny thing is, you use these girders to put together buildings just like you're going to use this radical to put together kanji!</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-18" meaning="Industry" reading="こう">工</kanji>
+    <kanji id="kanji-47" meaning="Left" reading="ひだり">左</kanji>
+  </found_in_kanji>
+</radical>

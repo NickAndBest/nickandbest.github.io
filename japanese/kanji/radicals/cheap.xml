@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>22</level>
+  <radical_kanji>安</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This is the same as the kanji, </text>
+      <kanji>cheap</kanji>
+      <text>, making this radical </text>
+      <radical>cheap</radical>
+      <text> as well.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-772" meaning="Plan" reading="あん">案</kanji>
+  </found_in_kanji>
+</radical>

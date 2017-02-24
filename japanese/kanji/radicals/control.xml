@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>24</level>
+  <radical_kanji>制</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This radical is the same as the kanji. It means </text>
+      <radical>control</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-828" meaning="Manufacture" reading="せい">製</kanji>
+  </found_in_kanji>
+</radical>

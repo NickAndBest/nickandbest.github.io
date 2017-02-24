@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>20</level>
+  <radical_kanji>至</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>You have a boob and a grave. So, naturally this is a </text>
+      <radical>boob grave</radical>
+      <text>. Just imagine a single boob being buried, getting a service, and having people crying all around.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-719" meaning="Overthrow" reading="とう">倒</kanji>
+    <kanji id="kanji-1323" meaning="Do" reading="ち">致</kanji>
+    <kanji id="kanji-1440" meaning="Attain" reading="し">至</kanji>
+    <kanji id="kanji-1446" meaning="Arrival" reading="とう">到</kanji>
+    <kanji id="kanji-1954" meaning="Suffocate" reading="ちつ">窒</kanji>
+  </found_in_kanji>
+</radical>

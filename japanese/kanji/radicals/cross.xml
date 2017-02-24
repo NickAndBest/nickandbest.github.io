@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>1</level>
+  <radical_kanji>十</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This radical looks like a </text>
+      <radical>cross</radical>
+      <text>. Think about a Jewish person carrying a cross. Technically, Jewish people don't carry crosses, but it will help you when the kanji version of </text>
+      <span>十</span>
+      <text> appears to you, coming up later.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-9" meaning="Ten" reading="じゅう">十</kanji>
+    <kanji id="kanji-29" meaning="Genius" reading="さい">才</kanji>
+  </found_in_kanji>
+</radical>

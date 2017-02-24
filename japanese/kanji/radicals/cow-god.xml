@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>24</level>
+  <radical_kanji>韋</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>The five is a bit altered, but you can see it. So, you have five mouths. And you have a cow. In this case, you have a five mouthed cow. This is the </text>
+      <radical>cow god</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-829" meaning="Different" reading="ちが">違</kanji>
+    <kanji id="kanji-997" meaning="Korea" reading="かん">韓</kanji>
+    <kanji id="kanji-1133" meaning="Defense" reading="えい">衛</kanji>
+    <kanji id="kanji-1761" meaning="Greatness" reading="い">偉</kanji>
+    <kanji id="kanji-1840" meaning="Latitude" reading="い">緯</kanji>
+  </found_in_kanji>
+</radical>

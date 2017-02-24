@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>11</level>
+  <radical_kanji/>
+  <name_mnemonic>
+    <p>
+      <text>You have the radical twenty and the kanji one. Put those together and you get 21. What's another name for 21? That's </text>
+      <radical>blackjack</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-396" meaning="Long Ago" reading="むかし">昔</kanji>
+    <kanji id="kanji-382" meaning="Together" reading="きょう">共</kanji>
+    <kanji id="kanji-449" meaning="Harbor" reading="こう">港</kanji>
+    <kanji id="kanji-494" meaning="Choose" reading="せん">選</kanji>
+    <kanji id="kanji-854" meaning="Expand" reading="てん">展</kanji>
+    <kanji id="kanji-1075" meaning="Scatter" reading="さん">散</kanji>
+    <kanji id="kanji-1171" meaning="Differ" reading="い">異</kanji>
+    <kanji id="kanji-1855" meaning="Receive" reading="たい">戴</kanji>
+    <kanji id="kanji-1944" meaning="Confused" reading="さく">錯</kanji>
+  </found_in_kanji>
+</radical>

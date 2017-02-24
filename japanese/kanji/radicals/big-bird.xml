@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>12</level>
+  <radical_kanji>廴</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This looks like something that's really big taking huge steps. It also looks like it has a beak. What's big and has a beak? The famous character </text>
+      <radical>Big Bird</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-419" meaning="Garden" reading="てい">庭</kanji>
+    <kanji id="kanji-554" meaning="Build" reading="けん">建</kanji>
+    <kanji id="kanji-765" meaning="Birth" reading="たん">誕</kanji>
+    <kanji id="kanji-951" meaning="Healthy" reading="けん">健</kanji>
+    <kanji id="kanji-1035" meaning="Prolong" reading="えん">延</kanji>
+    <kanji id="kanji-1598" meaning="Key" reading="かぎ">鍵</kanji>
+    <kanji id="kanji-1730" meaning="Courts" reading="てい">廷</kanji>
+    <kanji id="kanji-1841" meaning="Rowboat" reading="てい">艇</kanji>
+  </found_in_kanji>
+</radical>

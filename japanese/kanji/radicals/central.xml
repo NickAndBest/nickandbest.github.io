@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>13</level>
+  <radical_kanji>央</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This radical looks just like the kanji </text>
+      <kanji>central</kanji>
+      <text>. So, we're going to name this radical </text>
+      <radical>central</radical>
+      <text> as well.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-501" meaning="Reflect" reading="えい">映</kanji>
+    <kanji id="kanji-561" meaning="England" reading="えい">英</kanji>
+    <kanji id="kanji-1934" meaning="Crystal" reading="えい">瑛</kanji>
+  </found_in_kanji>
+</radical>

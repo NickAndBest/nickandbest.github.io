@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>3</level>
+  <radical_kanji>干</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>Doesn't this look like the </text>
+      <radical>antenna</radical>
+      <text> that would be on top of a house or maybe on top of a television? That's why this radical means "antenna."</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-82" meaning="Half" reading="はん">半</kanji>
+    <kanji id="kanji-67" meaning="Noon" reading="ご">午</kanji>
+  </found_in_kanji>
+</radical>

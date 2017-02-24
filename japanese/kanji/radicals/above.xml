@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>29</level>
+  <radical_kanji>上</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This is the same as the kanji, </text>
+      <radical>above</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-1003" meaning="Coach" reading="とく">督</kanji>
+    <kanji id="kanji-1939" meaning="Lonely" reading="じゃく">寂</kanji>
+    <kanji id="kanji-2029" meaning="Graceful" reading="しゅく">淑</kanji>
+    <kanji id="kanji-2043" meaning="Ridge" reading="とうげ">峠</kanji>
+    <kanji id="kanji-2045" meaning="Uncle" reading="お">叔</kanji>
+  </found_in_kanji>
+</radical>

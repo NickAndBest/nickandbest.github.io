@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>57</level>
+  <radical_kanji>凸</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This looks like it's a box with something sticking out of it. When something is sticking out of something else it's called </text>
+      <radical>convex</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-1999" meaning="Convex" reading="とつ">凸</kanji>
+  </found_in_kanji>
+</radical>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>44</level>
+  <radical_kanji>刃</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>You have a sword that has a drop of something on it. That drop is a drop of blood. Sure, a sword will cut someone to spill some blood, but all you really need is any kind of </text>
+      <radical>blade</radical>
+      <text> to cut someone, sword, knife, whatever.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-1518" meaning="Blade" reading="は">刃</kanji>
+    <kanji id="kanji-1519" meaning="Endure" reading="にん">忍</kanji>
+  </found_in_kanji>
+</radical>

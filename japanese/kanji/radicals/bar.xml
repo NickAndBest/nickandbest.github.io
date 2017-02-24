@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>14</level>
+  <radical_kanji/>
+  <name_mnemonic>
+    <p>
+      <text>There are two drunkards here. That makes this radical a </text>
+      <radical>bar</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-520" meaning="Remainder" reading="ざん">残</kanji>
+    <kanji id="kanji-559" meaning="Shallow" reading="あさ">浅</kanji>
+    <kanji id="kanji-1138" meaning="Coin" reading="せん">銭</kanji>
+    <kanji id="kanji-1882" meaning="Practice" reading="せん">践</kanji>
+    <kanji id="kanji-2094" meaning="Jetty" reading="さん">桟</kanji>
+  </found_in_kanji>
+</radical>

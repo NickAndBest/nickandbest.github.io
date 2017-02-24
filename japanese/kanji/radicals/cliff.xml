@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>4</level>
+  <radical_kanji>厂</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>See the cliff? It's facing towards the west. What ocean is to your west? That's the direction this </text>
+      <radical>cliff</radical>
+      <text> is facing.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-461" meaning="Anti" reading="はん">反</kanji>
+    <kanji id="kanji-376" meaning="Face" reading="かお">顔</kanji>
+    <kanji id="kanji-394" meaning="Coast" reading="がん">岸</kanji>
+    <kanji id="kanji-597" meaning="Dangerous" reading="き">危</kanji>
+    <kanji id="kanji-678" meaning="Continuation" reading="れき">歴</kanji>
+    <kanji id="kanji-718" meaning="Give Birth" reading="さん">産</kanji>
+    <kanji id="kanji-715" meaning="Pressure" reading="あつ">圧</kanji>
+    <kanji id="kanji-721" meaning="Thick" reading="あつ">厚</kanji>
+    <kanji id="kanji-745" meaning="Sect" reading="は">派</kanji>
+    <kanji id="kanji-811" meaning="Provide" reading="び">備</kanji>
+    <kanji id="kanji-906" meaning="Encourage" reading="れい">励</kanji>
+    <kanji id="kanji-1077" meaning="Vein" reading="みゃく">脈</kanji>
+    <kanji id="kanji-1143" meaning="Strict" reading="げん">厳</kanji>
+    <kanji id="kanji-1169" meaning="Ashes" reading="はい">灰</kanji>
+    <kanji id="kanji-1230" meaning="Unlucky" reading="やく">厄</kanji>
+    <kanji id="kanji-1434" meaning="Charcoal" reading="たん">炭</kanji>
+    <kanji id="kanji-1562" meaning="Calendar" reading="れき">暦</kanji>
+    <kanji id="kanji-1634" meaning="Cliff" reading="がい">崖</kanji>
+    <kanji id="kanji-1688" meaning="Shield" reading="じゅん">盾</kanji>
+    <kanji id="kanji-1665" meaning="Swift" reading="じん">迅</kanji>
+    <kanji id="kanji-1745" meaning="Empress" reading="こう">后</kanji>
+    <kanji id="kanji-1758" meaning="Horizon" reading="がい">涯</kanji>
+    <kanji id="kanji-1923" meaning="Circulation" reading="じゅん">循</kanji>
+    <kanji id="kanji-1906" meaning="Horse Ches..." reading="とち">栃</kanji>
+  </found_in_kanji>
+</radical>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>4</level>
+  <radical_kanji/>
+  <name_mnemonic>
+    <p>
+      <text>Doesn't this look like someone on their knees, holding their hands out (clasped) and begging for something (money, their life, etc.)? That's why this radical is known as the </text>
+      <radical>beggar</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-96" meaning="Copy" reading="しゃ">写</kanji>
+    <kanji id="kanji-142" meaning="Think" reading="かんが">考</kanji>
+    <kanji id="kanji-858" meaning="Give" reading="よ">与</kanji>
+    <kanji id="kanji-949" meaning="Extreme" reading="きょく">極</kanji>
+    <kanji id="kanji-1147" meaning="Dirty" reading="お">汚</kanji>
+    <kanji id="kanji-1611" meaning="Pride" reading="こ">誇</kanji>
+    <kanji id="kanji-1726" meaning="Adept" reading="こう">巧</kanji>
+    <kanji id="kanji-1732" meaning="Alligator" reading="わに">鰐</kanji>
+    <kanji id="kanji-2084" meaning="Torture" reading="ごう">拷</kanji>
+  </found_in_kanji>
+</radical>

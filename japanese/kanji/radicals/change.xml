@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>27</level>
+  <radical_kanji>化</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This radical is the same as the kanji. It means </text>
+      <radical>Change</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-946" meaning="Shoes" reading="くつ">靴</kanji>
+    <kanji id="kanji-1079" meaning="Freight" reading="か">貨</kanji>
+    <kanji id="kanji-1328" meaning="Lean" reading="けい">傾</kanji>
+  </found_in_kanji>
+</radical>

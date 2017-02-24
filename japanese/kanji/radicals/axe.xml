@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>5</level>
+  <radical_kanji>斤</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This is a strange looking axe, I know. But think of it this way... the letter "T" is in the cliff. What is the "T"? Of course it has to be "Mr. T," who's super awesome. Think of Mr. T wielding a terrifying </text>
+      <radical>axe</radical>
+      <text>, running after you screaming "I pity the foo'" at you while trying to chop you down. That makes for a pretty terrifying axe.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-162" meaning="Near" reading="きん">近</kanji>
+    <kanji id="kanji-301" meaning="Place" reading="しょ">所</kanji>
+    <kanji id="kanji-464" meaning="New" reading="しん">新</kanji>
+    <kanji id="kanji-515" meaning="Fold" reading="せつ">折</kanji>
+    <kanji id="kanji-608" meaning="Soldier" reading="へい">兵</kanji>
+    <kanji id="kanji-644" meaning="Pray" reading="き">祈</kanji>
+    <kanji id="kanji-748" meaning="Cut Off" reading="だん">断</kanji>
+    <kanji id="kanji-851" meaning="Quality" reading="しつ">質</kanji>
+    <kanji id="kanji-867" meaning="Sue" reading="そ">訴</kanji>
+    <kanji id="kanji-985" meaning="Beach" reading="はま">浜</kanji>
+    <kanji id="kanji-1461" meaning="Analysis" reading="せき">析</kanji>
+    <kanji id="kanji-1448" meaning="Philosophy" reading="てつ">哲</kanji>
+    <kanji id="kanji-1460" meaning="Temporarily" reading="ざん">暫</kanji>
+    <kanji id="kanji-1496" meaning="Peak" reading="がく">岳</kanji>
+    <kanji id="kanji-1529" meaning="Hill" reading="きゅう">丘</kanji>
+    <kanji id="kanji-1591" meaning="Slice" reading="ざん">斬</kanji>
+    <kanji id="kanji-1694" meaning="Vow" reading="せい">誓</kanji>
+    <kanji id="kanji-1967" meaning="Artisan" reading="しょう">匠</kanji>
+    <kanji id="kanji-2076" meaning="Die" reading="せい">逝</kanji>
+    <kanji id="kanji-2102" meaning="Gradually" reading="ようや">漸</kanji>
+  </found_in_kanji>
+</radical>

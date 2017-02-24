@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>6</level>
+  <radical_kanji>歹</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>The evening radical is under the ground. Things that happen underground at night are usually all </text>
+      <radical>bad</radical>
+      <text> things. Think of all the bad underground stuff that happens at night. Gambling, prostitution, drug dealing... you name it. It's all bad.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-191" meaning="Death" reading="し">死</kanji>
+    <kanji id="kanji-504" meaning="Example" reading="れい">例</kanji>
+    <kanji id="kanji-520" meaning="Remainder" reading="ざん">残</kanji>
+    <kanji id="kanji-544" meaning="Row" reading="れつ">列</kanji>
+    <kanji id="kanji-1018" meaning="Violent" reading="れつ">烈</kanji>
+    <kanji id="kanji-1315" meaning="Burial" reading="そう">葬</kanji>
+    <kanji id="kanji-1407" meaning="Multiply" reading="しょく">殖</kanji>
+    <kanji id="kanji-1480" meaning="Split" reading="れつ">裂</kanji>
+    <kanji id="kanji-1819" meaning="Especially" reading="しゅ">殊</kanji>
+    <kanji id="kanji-2091" meaning="Martyr" reading="じゅん">殉</kanji>
+  </found_in_kanji>
+</radical>

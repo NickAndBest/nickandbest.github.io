@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>10</level>
+  <radical_kanji/>
+  <name_mnemonic>
+    <p>
+      <text>Why is your husband putting flowers in his mouth? It's because he's </text>
+      <radical>Chinese</radical>
+      <text>. It's just something they do over there, you explain. Imagine that you have a husband if you don't, and imagine him actually doing this.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-359" meaning="Chinese" reading="かん">漢</kanji>
+    <kanji id="kanji-704" meaning="Difficult" reading="なん">難</kanji>
+    <kanji id="kanji-1068" meaning="Sigh" reading="たん">嘆</kanji>
+  </found_in_kanji>
+</radical>

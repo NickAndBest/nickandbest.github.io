@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>4</level>
+  <radical_kanji>巴</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>You'll have to complete the line on the right side in your mind, but see the rectangle </text>
+      <radical>bed</radical>
+      <text> and the pillows? This is totally a "bed."</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-881" meaning="Obese" reading="ひ">肥</kanji>
+    <kanji id="kanji-1754" meaning="Bundle" reading="わ">把</kanji>
+  </found_in_kanji>
+</radical>

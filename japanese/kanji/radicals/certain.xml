@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>32</level>
+  <radical_kanji>必</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This radical is the same as the kanji. It means </text>
+      <radical>Certain</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-1146" meaning="Secrecy" reading="みつ">密</kanji>
+    <kanji id="kanji-1151" meaning="Secret" reading="ひ">秘</kanji>
+    <kanji id="kanji-1429" meaning="Honey" reading="みつ">蜜</kanji>
+    <kanji id="kanji-2101" meaning="Secrete" reading="ひ">泌</kanji>
+  </found_in_kanji>
+</radical>

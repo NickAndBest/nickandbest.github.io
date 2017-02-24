@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>15</level>
+  <radical_kanji>去</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>Here is a grave pile. Where do grave piles (usually) exist? In a </text>
+      <radical>cemetery</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-557" meaning="Method" reading="ほう">法</kanji>
+    <kanji id="kanji-1329" meaning="Contrary" reading="きゃく">却</kanji>
+    <kanji id="kanji-1557" meaning="Leg" reading="きゃく">脚</kanji>
+  </found_in_kanji>
+</radical>

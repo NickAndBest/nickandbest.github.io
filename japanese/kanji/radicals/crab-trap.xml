@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>49</level>
+  <radical_kanji>甚</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This radical looks like a small animal (</text>
+      <span>匹</span>
+      <text>) has a crab (</text>
+      <span>其</span>
+      <text>) sticking out of it. Often when a crab is eating a small animal, that small animal was put inside a </text>
+      <radical>crab trap</radical>
+      <text> to catch the crab, luring it in with the small animal. That's why this radical is </text>
+      <radical>crab trap</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-1722" meaning="Intuition" reading="かん">勘</kanji>
+    <kanji id="kanji-2047" meaning="Endure" reading="た">堪</kanji>
+    <kanji id="kanji-2049" meaning="Very" reading="じん">甚</kanji>
+  </found_in_kanji>
+</radical>

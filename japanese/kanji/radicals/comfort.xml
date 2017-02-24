@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>17</level>
+  <radical_kanji>楽</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>Remember the kanji </text>
+      <span>楽</span>
+      <text>? This is the same, down to the meaning: </text>
+      <radical>comfort</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-605" meaning="Medicine" reading="やく">薬</kanji>
+  </found_in_kanji>
+</radical>

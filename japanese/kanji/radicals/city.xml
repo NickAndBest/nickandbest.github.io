@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>19</level>
+  <radical_kanji>市</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This is the same as the kanji and also means </text>
+      <radical>city</radical>
+      <text>!</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-1178" meaning="Lung" reading="はい">肺</kanji>
+  </found_in_kanji>
+</radical>

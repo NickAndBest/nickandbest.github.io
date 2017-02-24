@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>12</level>
+  <radical_kanji>其</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This looks a bit like the clam radical (貝) but it's spikier and crazier looking. What's another shelled creature that's more out there than a clam? That would be a </text>
+      <radical>crab</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-445" meaning="Period Of ..." reading="き">期</kanji>
+    <kanji id="kanji-525" meaning="Foundation" reading="き">基</kanji>
+    <kanji id="kanji-1027" meaning="Flag" reading="き">旗</kanji>
+    <kanji id="kanji-1357" meaning="Chess Piece" reading="き">棋</kanji>
+    <kanji id="kanji-1600" meaning="Go" reading="ご">碁</kanji>
+    <kanji id="kanji-1621" meaning="Deceit" reading="ぎ">欺</kanji>
+  </found_in_kanji>
+</radical>

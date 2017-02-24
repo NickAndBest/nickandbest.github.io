@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>8</level>
+  <radical_kanji>匚</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This radical is a </text>
+      <radical>cage</radical>
+      <text> because it's covered on all sides but one (the one open side is where the cage door or gate is). There's nothing inside this </text>
+      <radical>cage</radical>
+      <text> because there's no gate, and whatever was inside has gotten out. I hope it wasn't rabid...</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-268" meaning="Medicine" reading="い">医</kanji>
+    <kanji id="kanji-545" meaning="District" reading="く">区</kanji>
+    <kanji id="kanji-931" meaning="Spare Time" reading="か">暇</kanji>
+    <kanji id="kanji-1532" meaning="Small Animal" reading="ひき">匹</kanji>
+    <kanji id="kanji-1687" meaning="Assault" reading="おう">殴</kanji>
+    <kanji id="kanji-1740" meaning="Dam" reading="せき">堰</kanji>
+    <kanji id="kanji-1967" meaning="Artisan" reading="しょう">匠</kanji>
+    <kanji id="kanji-2077" meaning="Hide" reading="とく">匿</kanji>
+  </found_in_kanji>
+</radical>

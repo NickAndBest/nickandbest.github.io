@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>25</level>
+  <radical_kanji>京</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This radical is the same as the kanji. It means </text>
+      <radical>Capital</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-865" meaning="Scene" reading="けい">景</kanji>
+    <kanji id="kanji-860" meaning="Shadow" reading="えい">影</kanji>
+    <kanji id="kanji-937" meaning="Settle In" reading="しゅう">就</kanji>
+    <kanji id="kanji-1595" meaning="Cool" reading="りょう">涼</kanji>
+    <kanji id="kanji-1864" meaning="Comprehend" reading="りょう">諒</kanji>
+    <kanji id="kanji-1866" meaning="Whale" reading="げい">鯨</kanji>
+  </found_in_kanji>
+</radical>

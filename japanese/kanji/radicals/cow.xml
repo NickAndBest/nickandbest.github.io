@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>2</level>
+  <radical_kanji>牛</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>There's a cross and a gun, with the gun going through the cross. You're using the cross to stabilize your gun, because you need to shoot a </text>
+      <radical>cow</radical>
+      <text> for dinner. The reason you bring your cross is because you need to bless the cow once you've killed it (and it's also a good stand for your gun). Poor cow.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-75" meaning="Cow" reading="ぎゅう">牛</kanji>
+  </found_in_kanji>
+</radical>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>13</level>
+  <radical_kanji/>
+  <name_mnemonic>
+    <p>
+      <text>Do you see the little mustache on top of the mouth? It's one of those creepy mustaches... sort of a John Waters sort of deal. That's why this radical is called </text>
+      <radical>creeper</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-470" meaning="Feeling" reading="かん">感</kanji>
+    <kanji id="kanji-475" meaning="Luck" reading="ふく">福</kanji>
+    <kanji id="kanji-551" meaning="Director" reading="し">司</kanji>
+    <kanji id="kanji-783" meaning="Vice" reading="ふく">副</kanji>
+    <kanji id="kanji-912" meaning="Beast" reading="じゅう">獣</kanji>
+    <kanji id="kanji-935" meaning="Misguided" reading="わく">惑</kanji>
+    <kanji id="kanji-1084" meaning="Rich" reading="ふ">富</kanji>
+    <kanji id="kanji-1262" meaning="Width" reading="はば">幅</kanji>
+  </found_in_kanji>
+</radical>

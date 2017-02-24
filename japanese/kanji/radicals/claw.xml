@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>34</level>
+  <radical_kanji>爪</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This looks like a </text>
+      <radical>claw</radical>
+      <text> of some kind already, making it quite easy!</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-1216" meaning="Claw" reading="つま">爪</kanji>
+  </found_in_kanji>
+</radical>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>6</level>
+  <radical_kanji>ホ</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>First of all, there's a cross making up the middle, which auto-makes this one a religion-based radical. That cross is the frame of someone's body, and the things coming off are wings. This is an </text>
+      <radical>angel</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-222" meaning="Tea" reading="ちゃ">茶</kanji>
+    <kanji id="kanji-530" meaning="Art" reading="じゅつ">術</kanji>
+    <kanji id="kanji-852" meaning="Mention" reading="じゅつ">述</kanji>
+  </found_in_kanji>
+</radical>

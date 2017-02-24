@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>7</level>
+  <radical_kanji>鳥</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>See the cool wing on the bottom? See the head with the neat feather coming out of the top? This is a </text>
+      <radical>bird</radical>
+      <text>. Tweet tweet!</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-261" meaning="Bird" reading="ちょう">鳥</kanji>
+    <kanji id="kanji-368" meaning="Chirp" reading="な">鳴</kanji>
+    <kanji id="kanji-427" meaning="Island" reading="しま">島</kanji>
+    <kanji id="kanji-1205" meaning="Recommend" reading="せん">薦</kanji>
+    <kanji id="kanji-1583" meaning="Dove" reading="はと">鳩</kanji>
+    <kanji id="kanji-1699" meaning="Crane" reading="つる">鶴</kanji>
+    <kanji id="kanji-1998" meaning="Crow" reading="からす">烏</kanji>
+    <kanji id="kanji-2021" meaning="Chicken" reading="けい">鶏</kanji>
+  </found_in_kanji>
+</radical>

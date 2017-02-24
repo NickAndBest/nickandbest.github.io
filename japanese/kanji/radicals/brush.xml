@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>9</level>
+  <radical_kanji>聿</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>It's easier to imagine if you turn your head sideways. The left side of this radical is the </text>
+      <radical>brush</radical>
+      <text>. See all the bristles?</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-302" meaning="Action" reading="じ">事</kanji>
+    <kanji id="kanji-554" meaning="Build" reading="けん">建</kanji>
+    <kanji id="kanji-570" meaning="Write" reading="しょ">書</kanji>
+    <kanji id="kanji-722" meaning="Wife" reading="さい">妻</kanji>
+    <kanji id="kanji-806" meaning="Law" reading="りつ">律</kanji>
+    <kanji id="kanji-869" meaning="Apprehend" reading="たい">逮</kanji>
+    <kanji id="kanji-897" meaning="Writing Brush" reading="ひつ">筆</kanji>
+    <kanji id="kanji-952" meaning="Health" reading="こう">康</kanji>
+    <kanji id="kanji-951" meaning="Healthy" reading="けん">健</kanji>
+    <kanji id="kanji-1176" meaning="Sugar" reading="とう">糖</kanji>
+    <kanji id="kanji-1193" meaning="Slave" reading="れい">隷</kanji>
+    <kanji id="kanji-1270" meaning="Haven" reading="つ">津</kanji>
+    <kanji id="kanji-1598" meaning="Key" reading="かぎ">鍵</kanji>
+    <kanji id="kanji-1729" meaning="China" reading="とう">唐</kanji>
+    <kanji id="kanji-1959" meaning="Common" reading="よう">庸</kanji>
+  </found_in_kanji>
+</radical>

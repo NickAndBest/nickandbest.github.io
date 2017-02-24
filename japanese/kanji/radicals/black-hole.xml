@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>19</level>
+  <radical_kanji>复</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>When you shoot your gun at the sun, it becomes winter. The shot you fired sent the sun into a crazy chain reaction, making it implode on itself and become a </text>
+      <radical>black hole</radical>
+      <text>. Imagine this happening, and imagine the shock you'd feel. You shot the sun. You caused this infinite winter (and soon black hole death) to happen.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-684" meaning="Boots" reading="り">履</kanji>
+    <kanji id="kanji-894" meaning="Restore" reading="ふく">復</kanji>
+    <kanji id="kanji-926" meaning="Belly" reading="ふく">腹</kanji>
+    <kanji id="kanji-1134" meaning="Duplicate" reading="ふく">複</kanji>
+    <kanji id="kanji-1709" meaning="Capsize" reading="ふく">覆</kanji>
+  </found_in_kanji>
+</radical>

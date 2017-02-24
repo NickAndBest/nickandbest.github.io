@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>26</level>
+  <radical_kanji>告</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This radical is the same as the kanji. It means </text>
+      <radical>Announce</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-890" meaning="Create" reading="ぞう">造</kanji>
+    <kanji id="kanji-1888" meaning="Cruel" reading="こく">酷</kanji>
+  </found_in_kanji>
+</radical>

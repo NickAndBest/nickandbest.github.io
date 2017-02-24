@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>45</level>
+  <radical_kanji>更</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This is the same as the kanji </text>
+      <radical>Again</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-1575" meaning="Stiff" reading="こう">硬</kanji>
+  </found_in_kanji>
+</radical>

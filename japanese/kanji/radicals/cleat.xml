@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>9</level>
+  <radical_kanji/>
+  <name_mnemonic>
+    <p>
+      <text>There's the bottom of the shoe and the spikes coming out of it. Only one kind of shoe is like this, and that is a </text>
+      <radical>cleat</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-305" meaning="Accept" reading="う">受</kanji>
+    <kanji id="kanji-533" meaning="Gentle" reading="だ">妥</kanji>
+    <kanji id="kanji-629" meaning="Love" reading="あい">愛</kanji>
+    <kanji id="kanji-821" meaning="Milk" reading="にゅう">乳</kanji>
+    <kanji id="kanji-886" meaning="Hide" reading="いん">隠</kanji>
+    <kanji id="kanji-1042" meaning="Float" reading="う">浮</kanji>
+    <kanji id="kanji-1078" meaning="Vegetable" reading="さい">菜</kanji>
+    <kanji id="kanji-1125" meaning="Gather" reading="さい">採</kanji>
+    <kanji id="kanji-1251" meaning="Soy Sauce" reading="しょう">醤</kanji>
+    <kanji id="kanji-1255" meaning="Commander" reading="しょう">将</kanji>
+    <kanji id="kanji-1376" meaning="Rice Plant" reading="いね">稲</kanji>
+    <kanji id="kanji-1609" meaning="Blink" reading="しゅん">瞬</kanji>
+    <kanji id="kanji-1584" meaning="Calm" reading="おん">穏</kanji>
+    <kanji id="kanji-1669" meaning="Coloring" reading="さい">彩</kanji>
+    <kanji id="kanji-1720" meaning="Encourage" reading="しょう">奨</kanji>
+    <kanji id="kanji-2021" meaning="Chicken" reading="けい">鶏</kanji>
+    <kanji id="kanji-2085" meaning="Valley" reading="けい">渓</kanji>
+  </found_in_kanji>
+</radical>

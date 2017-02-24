@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>43</level>
+  <radical_kanji>業</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This is the same as the kanji </text>
+      <radical>Business</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-1502" meaning="Slap" reading="ぼく">撲</kanji>
+    <kanji id="kanji-1531" meaning="I" reading="ぼく">僕</kanji>
+  </found_in_kanji>
+</radical>

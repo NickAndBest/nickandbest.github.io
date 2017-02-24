@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>10</level>
+  <radical_kanji>豆</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This radical has a pod (the square in the middle) between the ground and some roots. That pod is going to turn into a plant someday. What plant will it be? Great big </text>
+      <radical>beans</radical>
+      <text>, like the ones from Jack and the Beanstalk.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-374" meaning="Head" reading="あたま">頭</kanji>
+    <kanji id="kanji-451" meaning="Climb" reading="とう">登</kanji>
+    <kanji id="kanji-453" meaning="Short" reading="たん">短</kanji>
+    <kanji id="kanji-879" meaning="Plentiful" reading="ほう">豊</kanji>
+    <kanji id="kanji-1217" meaning="Beans" reading="とう">豆</kanji>
+    <kanji id="kanji-1304" meaning="Struggle" reading="とう">闘</kanji>
+    <kanji id="kanji-1423" meaning="Wood" reading="じゅ">樹</kanji>
+    <kanji id="kanji-1547" meaning="Lucidity" reading="ちょう">澄</kanji>
+    <kanji id="kanji-1810" meaning="Swell" reading="ぼう">膨</kanji>
+  </found_in_kanji>
+</radical>

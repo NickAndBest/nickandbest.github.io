@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>3</level>
+  <radical_kanji>矢</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>You have a really </text>
+      <radical>big</radical>
+      <text> </text>
+      <radical>gun</radical>
+      <text>. Why? Because only big guns will be able to shoot </text>
+      <radical>arrow</radical>
+      <text>s! Bullets are pretty small, so the gun can be any size. But this big gun is for shooting arrows really, really fast at your enemies! Hahaha!</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-90" meaning="Arrow" reading="や">矢</kanji>
+  </found_in_kanji>
+</radical>

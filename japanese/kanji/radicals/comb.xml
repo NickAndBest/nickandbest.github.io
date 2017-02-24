@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>27</level>
+  <radical_kanji/>
+  <name_mnemonic>
+    <p>
+      <text>Look at all those little things sticking out. You could easily use it to </text>
+      <radical>comb</radical>
+      <text> your hair.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-931" meaning="Spare Time" reading="か">暇</kanji>
+    <kanji id="kanji-924" meaning="Steps" reading="だん">段</kanji>
+    <kanji id="kanji-1132" meaning="Interest" reading="きょう">興</kanji>
+    <kanji id="kanji-1605" meaning="Forge" reading="たん">鍛</kanji>
+  </found_in_kanji>
+</radical>

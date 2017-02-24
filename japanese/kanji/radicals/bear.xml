@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>11</level>
+  <radical_kanji/>
+  <name_mnemonic>
+    <p>
+      <text>This looks like the letter "B," which stands for </text>
+      <radical>bear</radical>
+      <text>. B for Bear!</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-407" meaning="Follow" reading="お">追</kanji>
+    <kanji id="kanji-481" meaning="Public Bui..." reading="かん">館</kanji>
+    <kanji id="kanji-626" meaning="Government" reading="かん">官</kanji>
+    <kanji id="kanji-807" meaning="Teacher" reading="し">師</kanji>
+    <kanji id="kanji-845" meaning="Pipe" reading="かん">管</kanji>
+    <kanji id="kanji-1303" meaning="Dispatch" reading="けん">遣</kanji>
+    <kanji id="kanji-1351" meaning="Mound" reading="ふ">阜</kanji>
+    <kanji id="kanji-1860" meaning="Commander" reading="すい">帥</kanji>
+    <kanji id="kanji-2038" meaning="Sedge" reading="すが">菅</kanji>
+  </found_in_kanji>
+</radical>

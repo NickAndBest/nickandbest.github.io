@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>6</level>
+  <radical_kanji>斗</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>There's two </text>
+      <radical>chopsticks</radical>
+      <text> grabbing on to some rice. Of course, the person using them isn't all that skilled, but we'll forgive them, for now...</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-221" meaning="Science" reading="か">科</kanji>
+    <kanji id="kanji-486" meaning="Fee" reading="りょう">料</kanji>
+    <kanji id="kanji-1527" meaning="Ladle" reading="と">斗</kanji>
+    <kanji id="kanji-1686" meaning="Diagonal" reading="しゃ">斜</kanji>
+  </found_in_kanji>
+</radical>

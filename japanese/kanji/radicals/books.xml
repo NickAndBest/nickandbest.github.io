@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>13</level>
+  <radical_kanji>冊</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>If you put a bunch of </text>
+      <radical>books</radical>
+      <text> into a shelf, they'd kind of look like this, no?</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-493" meaning="Wheel" reading="りん">輪</kanji>
+    <kanji id="kanji-680" meaning="Books Counter" reading="さつ">冊</kanji>
+    <kanji id="kanji-728" meaning="Theory" reading="ろん">論</kanji>
+    <kanji id="kanji-1813" meaning="Ethics" reading="りん">倫</kanji>
+  </found_in_kanji>
+</radical>

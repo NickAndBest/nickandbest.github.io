@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>4</level>
+  <radical_kanji>竹</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>See how tall the stalks are with little bushy things at the top? It kind of looks like </text>
+      <radical>bamboo</radical>
+      <text> if you use your imagination a bit.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-116" meaning="Bamboo" reading="たけ">竹</kanji>
+    <kanji id="kanji-288" meaning="Answer" reading="こた">答</kanji>
+    <kanji id="kanji-364" meaning="Calculate" reading="さん">算</kanji>
+    <kanji id="kanji-430" meaning="Ordinal Nu..." reading="だい">第</kanji>
+    <kanji id="kanji-565" meaning="Construct" reading="ちく">築</kanji>
+    <kanji id="kanji-580" meaning="Box" reading="はこ">箱</kanji>
+    <kanji id="kanji-588" meaning="Laugh" reading="わら">笑</kanji>
+    <kanji id="kanji-646" meaning="Equal" reading="とう">等</kanji>
+    <kanji id="kanji-730" meaning="Flute" reading="てき">笛</kanji>
+    <kanji id="kanji-667" meaning="Season" reading="せつ">節</kanji>
+    <kanji id="kanji-781" meaning="Plan" reading="さく">策</kanji>
+    <kanji id="kanji-845" meaning="Pipe" reading="かん">管</kanji>
+    <kanji id="kanji-897" meaning="Writing Brush" reading="ひつ">筆</kanji>
+    <kanji id="kanji-1044" meaning="Token" reading="ふ">符</kanji>
+    <kanji id="kanji-1159" meaning="Muscle" reading="きん">筋</kanji>
+    <kanji id="kanji-1154" meaning="Simplicity" reading="かん">簡</kanji>
+    <kanji id="kanji-1469" meaning="Example" reading="はん">範</kanji>
+    <kanji id="kanji-1495" meaning="Cylinder" reading="とう">筒</kanji>
+    <kanji id="kanji-1485" meaning="Enroll" reading="せき">籍</kanji>
+    <kanji id="kanji-1537" meaning="Conical Hat" reading="かさ">笠</kanji>
+    <kanji id="kanji-1649" meaning="Chopsticks" reading="はし">箸</kanji>
+    <kanji id="kanji-1734" meaning="Record Book" reading="ぼ">簿</kanji>
+    <kanji id="kanji-2044" meaning="Deliberate" reading="とく">篤</kanji>
+  </found_in_kanji>
+</radical>

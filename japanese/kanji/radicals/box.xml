@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>6</level>
+  <radical_kanji>凵</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This </text>
+      <radical>box</radical>
+      <text> is open. There could be any number of things inside, but for now all you need to know is the meaning of this radical, which is box.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-204" meaning="Drawing" reading="が">画</kanji>
+    <kanji id="kanji-447" meaning="Tooth" reading="は">歯</kanji>
+  </found_in_kanji>
+</radical>

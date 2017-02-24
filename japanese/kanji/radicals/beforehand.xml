@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>12</level>
+  <radical_kanji>予</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This radical is the same as the kanji. It means </text>
+      <radical>Beforehand</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-454" meaning="Field" reading="や">野</kanji>
+    <kanji id="kanji-1034" meaning="Deposit" reading="よ">預</kanji>
+    <kanji id="kanji-1121" meaning="Preface" reading="じょ">序</kanji>
+  </found_in_kanji>
+</radical>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>6</level>
+  <radical_kanji>血</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>There's a little speck of something on your plate (</text>
+      <span>皿</span>
+      <text>). "What is that?" you ask. Oh no... that speck is </text>
+      <radical>BLOOD</radical>
+      <text>!!! Your waiter's getting fired for sure.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-193" meaning="Blood" reading="けつ">血</kanji>
+    <kanji id="kanji-983" meaning="Populace" reading="しゅう">衆</kanji>
+  </found_in_kanji>
+</radical>

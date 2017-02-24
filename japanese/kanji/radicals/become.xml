@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>19</level>
+  <radical_kanji>成</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This is just like the kanji </text>
+      <span>成</span>
+      <text> and has the same meaning too: </text>
+      <reading>become</reading>
+      <text>. It will be used in a surprising amount of more complicated kanji.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-823" meaning="Castle" reading="しろ">城</kanji>
+    <kanji id="kanji-1046" meaning="Go Beyond" reading="えつ">越</kanji>
+    <kanji id="kanji-1173" meaning="Pile" reading="せい">盛</kanji>
+    <kanji id="kanji-1441" meaning="Sincerity" reading="せい">誠</kanji>
+  </found_in_kanji>
+</radical>

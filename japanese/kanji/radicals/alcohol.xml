@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>10</level>
+  <radical_kanji>酉</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>See the West radical on top of the mouth radical? Think of someone's mouth who is from the wild west (like in a cowboy movie). What is always in their mouth? It's </text>
+      <radical>alcohol</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-344" meaning="Alcohol" reading="しゅ">酒</kanji>
+    <kanji id="kanji-343" meaning="Distribute" reading="はい">配</kanji>
+    <kanji id="kanji-1137" meaning="Acid" reading="さん">酸</kanji>
+    <kanji id="kanji-1163" meaning="Revered" reading="そん">尊</kanji>
+    <kanji id="kanji-1244" meaning="Drunk" reading="すい">酔</kanji>
+    <kanji id="kanji-1251" meaning="Soy Sauce" reading="しょう">醤</kanji>
+    <kanji id="kanji-1245" meaning="Vinegar" reading="す">酢</kanji>
+    <kanji id="kanji-1428" meaning="Sake" reading="ちゅう">酎</kanji>
+    <kanji id="kanji-1888" meaning="Cruel" reading="こく">酷</kanji>
+    <kanji id="kanji-1872" meaning="Repay" reading="しゅう">酬</kanji>
+    <kanji id="kanji-1937" meaning="Still" reading="ゆう">猶</kanji>
+    <kanji id="kanji-1983" meaning="Brew" reading="じょう">醸</kanji>
+    <kanji id="kanji-1995" meaning="Ferment" reading="こう">酵</kanji>
+    <kanji id="kanji-2032" meaning="Serve" reading="しゃく">酌</kanji>
+    <kanji id="kanji-2069" meaning="Dairy" reading="らく">酪</kanji>
+    <kanji id="kanji-2089" meaning="Ugly" reading="しゅう">醜</kanji>
+  </found_in_kanji>
+</radical>

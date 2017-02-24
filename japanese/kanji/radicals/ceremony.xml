@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>4</level>
+  <radical_kanji>弋</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This radical looks like a guy standing on one foot (because you only see one leg) holding onto something that produces drops of liquid. This person is pretty drunk, apparently. It's because he's performing the </text>
+      <radical>ceremony</radical>
+      <text> of drinking lots and lots.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-95" meaning="Substitute" reading="だい">代</kanji>
+    <kanji id="kanji-547" meaning="Ritual" reading="しき">式</kanji>
+    <kanji id="kanji-637" meaning="Try" reading="し">試</kanji>
+    <kanji id="kanji-850" meaning="Military" reading="ぶ">武</kanji>
+  </found_in_kanji>
+</radical>

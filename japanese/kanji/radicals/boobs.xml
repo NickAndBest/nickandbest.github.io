@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>8</level>
+  <radical_kanji>云</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This radical consists of two piles. Whether you're a dude or a gal, you probably have two piles on your chest. That's why these are </text>
+      <radical>boobs</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-293" meaning="Cloud" reading="くも">雲</kanji>
+    <kanji id="kanji-348" meaning="Revolve" reading="てん">転</kanji>
+    <kanji id="kanji-381" meaning="Transmit" reading="つた">伝</kanji>
+    <kanji id="kanji-524" meaning="Acting" reading="げい">芸</kanji>
+    <kanji id="kanji-1563" meaning="Cloudy" reading="くも">曇</kanji>
+    <kanji id="kanji-1572" meaning="Shade" reading="いん">陰</kanji>
+    <kanji id="kanji-1556" meaning="Soul" reading="たましい">魂</kanji>
+  </found_in_kanji>
+</radical>

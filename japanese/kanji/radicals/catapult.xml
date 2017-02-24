@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>34</level>
+  <radical_kanji>呉</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>See the rock in the </text>
+      <radical>catapult</radical>
+      <text>? It even has little legs to hold it steady so it can catapult better.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-1186" meaning="Mistake" reading="ご">誤</kanji>
+    <kanji id="kanji-1526" meaning="Recreation" reading="ご">娯</kanji>
+    <kanji id="kanji-1941" meaning="Give" reading="ご">呉</kanji>
+  </found_in_kanji>
+</radical>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>31</level>
+  <radical_kanji>扁</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>There's a door on the books. The door is part of a </text>
+      <radical>bookshelf</radical>
+      <text>, which holds the books together.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-1054" meaning="Knit" reading="へん">編</kanji>
+    <kanji id="kanji-1816" meaning="Biased" reading="へん">偏</kanji>
+    <kanji id="kanji-1986" meaning="Universal" reading="へん">遍</kanji>
+  </found_in_kanji>
+</radical>

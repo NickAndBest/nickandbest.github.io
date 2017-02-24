@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>21</level>
+  <radical_kanji>角</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This radical is the same as the kanji it comes from, making it </text>
+      <radical>angle</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-759" meaning="Untie" reading="かい">解</kanji>
+    <kanji id="kanji-838" meaning="Touch" reading="しょく">触</kanji>
+    <kanji id="kanji-1733" meaning="Crab" reading="かに">蟹</kanji>
+  </found_in_kanji>
+</radical>

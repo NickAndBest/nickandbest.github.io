@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>18</level>
+  <radical_kanji>争</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This radical is the same as the kanji </text>
+      <span>争</span>
+      <text>, which you learned earlier. It also means </text>
+      <radical>conflict</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-661" meaning="Quiet" reading="せい">静</kanji>
+    <kanji id="kanji-1833" meaning="Cleanse" reading="じょう">浄</kanji>
+  </found_in_kanji>
+</radical>

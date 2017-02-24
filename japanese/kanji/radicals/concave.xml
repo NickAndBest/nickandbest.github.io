@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>57</level>
+  <radical_kanji>凹</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>It looks like there is a dent in this box. When there is a hole or a dent in something it's called </text>
+      <radical>concave</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-2000" meaning="Concave" reading="おう">凹</kanji>
+  </found_in_kanji>
+</radical>

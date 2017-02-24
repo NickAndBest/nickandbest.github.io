@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>1</level>
+  <radical_kanji>大</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This radical looks just like a stick figure - more specifically, a really </text>
+      <radical>big</radical>
+      <text> dude stick figure. When you see this radical, just think big because this guy is really </text>
+      <radical>BIG</radical>
+      <text>!</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-14" meaning="Big" reading="たい">大</kanji>
+    <kanji id="kanji-69" meaning="Fat" reading="たい">太</kanji>
+  </found_in_kanji>
+</radical>

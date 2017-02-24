@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>9</level>
+  <radical_kanji>咅</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <radical>Clowns</radical>
+      <text> do weird tricks. One trick they might do is stand on their mouth (or, stand on someone else's mouth). Imagine a clown doing either one of these things to remember this radical: clown.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-317" meaning="Part" reading="ぶ">部</kanji>
+    <kanji id="kanji-425" meaning="Double" reading="ばい">倍</kanji>
+    <kanji id="kanji-1680" meaning="Cultivate" reading="ばい">培</kanji>
+    <kanji id="kanji-1803" meaning="Compensation" reading="ばい">賠</kanji>
+    <kanji id="kanji-2026" meaning="Accompany" reading="ばい">陪</kanji>
+    <kanji id="kanji-2027" meaning="Divide" reading="ぼう">剖</kanji>
+  </found_in_kanji>
+</radical>

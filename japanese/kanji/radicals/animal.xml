@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>6</level>
+  <radical_kanji>犭</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This looks like a tail with some hairs coming off of it. It shouldn't be confused with a nailbat, though, because it's curved, and the things sticking out are more erratic, like hair or fur would be. That's why this radical is the </text>
+      <radical>animal</radical>
+      <text> radical.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-567" meaning="Cat" reading="ねこ">猫</kanji>
+    <kanji id="kanji-724" meaning="Crime" reading="はん">犯</kanji>
+    <kanji id="kanji-834" meaning="Narrow" reading="せま">狭</kanji>
+    <kanji id="kanji-921" meaning="Alone" reading="どく">独</kanji>
+    <kanji id="kanji-1017" meaning="Fierce" reading="もう">猛</kanji>
+    <kanji id="kanji-1243" meaning="Prison" reading="ごく">獄</kanji>
+    <kanji id="kanji-1314" meaning="Aim" reading="そ">狙</kanji>
+    <kanji id="kanji-1403" meaning="Seize" reading="かく">獲</kanji>
+    <kanji id="kanji-1554" meaning="Hunt" reading="か">狩</kanji>
+    <kanji id="kanji-1580" meaning="Lunatic" reading="きょう">狂</kanji>
+    <kanji id="kanji-1596" meaning="Monkey" reading="さる">猿</kanji>
+    <kanji id="kanji-1825" meaning="Hunting" reading="りょう">猟</kanji>
+    <kanji id="kanji-1937" meaning="Still" reading="ゆう">猶</kanji>
+    <kanji id="kanji-2107" meaning="Fox" reading="きつね">狐</kanji>
+  </found_in_kanji>
+</radical>

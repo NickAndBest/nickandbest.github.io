@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>4</level>
+  <radical_kanji>車</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>Doesn't this look like a top-down view of the frame of a car? There's the rods that make up the base of the car and things for the wheels to go on. That's why this radical is the </text>
+      <radical>car</radical>
+      <text> radical.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-128" meaning="Car" reading="しゃ">車</kanji>
+    <kanji id="kanji-354" meaning="Carry" reading="うん">運</kanji>
+    <kanji id="kanji-352" meaning="Lightweight" reading="かる">軽</kanji>
+    <kanji id="kanji-348" meaning="Revolve" reading="てん">転</kanji>
+    <kanji id="kanji-493" meaning="Wheel" reading="りん">輪</kanji>
+    <kanji id="kanji-562" meaning="Army" reading="ぐん">軍</kanji>
+    <kanji id="kanji-693" meaning="Take Along" reading="れん">連</kanji>
+    <kanji id="kanji-839" meaning="Publish" reading="さい">載</kanji>
+    <kanji id="kanji-830" meaning="Transport" reading="ゆ">輸</kanji>
+    <kanji id="kanji-885" meaning="Comrade" reading="はい">輩</kanji>
+    <kanji id="kanji-896" meaning="Contrast" reading="かく">較</kanji>
+    <kanji id="kanji-908" meaning="Mail" reading="ゆう">郵</kanji>
+    <kanji id="kanji-942" meaning="Drowsy" reading="すい">睡</kanji>
+    <kanji id="kanji-986" meaning="Attack" reading="げき">撃</kanji>
+    <kanji id="kanji-957" meaning="Storage" reading="こ">庫</kanji>
+    <kanji id="kanji-1160" meaning="Dangle" reading="すい">垂</kanji>
+    <kanji id="kanji-1207" meaning="Brandish" reading="き">揮</kanji>
+    <kanji id="kanji-1305" meaning="Army Base" reading="じん">陣</kanji>
+    <kanji id="kanji-1463" meaning="Axis" reading="じく">軸</kanji>
+    <kanji id="kanji-1469" meaning="Example" reading="はん">範</kanji>
+    <kanji id="kanji-1460" meaning="Temporarily" reading="ざん">暫</kanji>
+    <kanji id="kanji-1591" meaning="Slice" reading="ざん">斬</kanji>
+    <kanji id="kanji-1675" meaning="Radiance" reading="き">輝</kanji>
+    <kanji id="kanji-1744" meaning="Rut" reading="き">軌</kanji>
+    <kanji id="kanji-1774" meaning="House Counter" reading="けん">軒</kanji>
+    <kanji id="kanji-1791" meaning="Lotus" reading="れん">蓮</kanji>
+    <kanji id="kanji-1775" meaning="Soft" reading="なん">軟</kanji>
+    <kanji id="kanji-1830" meaning="Help" reading="すけ">輔</kanji>
+    <kanji id="kanji-1952" meaning="Control" reading="かつ">轄</kanji>
+    <kanji id="kanji-2039" meaning="Ripples" reading="れん">漣</kanji>
+    <kanji id="kanji-2102" meaning="Gradually" reading="ようや">漸</kanji>
+  </found_in_kanji>
+</radical>

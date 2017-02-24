@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>5</level>
+  <radical_kanji>色</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>There's an enclosure at the top of your bed. As you lay in bed, you reach up into it, and knock a ton of </text>
+      <radical>color</radical>
+      <text>s on your face. That's your paint enclosure, turns out. Go look at your face in the mirror, it's covered in the color black, green, red, and so on. What a terrible way to wake up.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-145" meaning="Color" reading="いろ">色</kanji>
+    <kanji id="kanji-980" meaning="Extinction" reading="ぜつ">絶</kanji>
+  </found_in_kanji>
+</radical>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>4</level>
+  <radical_kanji>也</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>See the mouth and teeth of this </text>
+      <radical>alligator</radical>
+      <text>, which is facing to the right? You wouldn't want to get your hand stuck in there, that's for sure.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-94" meaning="Other" reading="た">他</kanji>
+    <kanji id="kanji-139" meaning="Pond" reading="いけ">池</kanji>
+    <kanji id="kanji-178" meaning="Earth" reading="ち">地</kanji>
+    <kanji id="kanji-819" meaning="Carry Out" reading="し">施</kanji>
+    <kanji id="kanji-1558" meaning="Considerably" reading="なり">也</kanji>
+  </found_in_kanji>
+</radical>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>39</level>
+  <radical_kanji>君</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This is the same as the kanji </text>
+      <radical>Buddy</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-1360" meaning="Flock" reading="ぐん">群</kanji>
+    <kanji id="kanji-1780" meaning="County" reading="ぐん">郡</kanji>
+  </found_in_kanji>
+</radical>

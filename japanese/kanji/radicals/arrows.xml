@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>20</level>
+  <radical_kanji>巛</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>There are three arrows pointing to the left. Instead of one arrow (like with the radical and kanji </text>
+      <span>矢</span>
+      <text>), these are three arrows... aka plural, more than one! </text>
+      <reading>Arrows</reading>
+      <text>!</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-698" meaning="Disaster" reading="さい">災</kanji>
+    <kanji id="kanji-1394" meaning="Patrol" reading="じゅん">巡</kanji>
+  </found_in_kanji>
+</radical>
