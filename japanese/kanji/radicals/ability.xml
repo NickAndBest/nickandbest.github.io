@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<radical>
+  <level>22</level>
+  <radical_kanji>能</radical_kanji>
+  <name_mnemonic>
+    <p>
+      <text>This is the same as the kanji meaning it comes from. This is </text>
+      <radical>ability</radical>
+      <text>.</text>
+    </p>
+  </name_mnemonic>
+  <found_in_kanji>
+    <kanji id="kanji-793" meaning="Appearance" reading="たい">態</kanji>
+    <kanji id="kanji-1242" meaning="Bear" reading="くま">熊</kanji>
+    <kanji id="kanji-2097" meaning="Quit" reading="ひ">罷</kanji>
+  </found_in_kanji>
+</radical>
