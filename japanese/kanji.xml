@@ -1,2 +1,22 @@
 <?xml version="1.0"?>
 <?xml-stylesheet href="kanji.xsl" type="text/xsl" ?>
+<wanikani>
+  <level>
+    <tag>Level 1</tag>
+    <list type="radical">
+      <radical>
+        <character>亅</character>
+        <name_mnemonic>
+          <p>
+            <text> This radical is shaped like a </text>
+            <blue>barb</blue>
+            <text>, like you'd see on barb wire, or something. Imagine one of these getting stuck in your arm, and think about how much it would hurt to pull it out with that hook on the end. Say out loud "Oh dang... I got this barb stuck in me."</text>
+          </p>
+        </name_mnemonic>
+        <found_in_kanji>
+          <kanji id="kanji-26" meaning="Finish" reading="りょう">了</kanji>
+        </found_in_kanji>
+      </radical>
+    </list>
+  </level>
+</wanikani>
